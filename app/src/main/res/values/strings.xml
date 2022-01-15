@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MoviesTestProject</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Search</string>
+    <string name="icon">icon</string>
+    <string name="movie">MOVIE</string>
+    <string name="rating">Rating</string>
+</resources>
